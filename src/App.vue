@@ -18,7 +18,7 @@
     },
     data() {
       return {
-        interval: 1,
+        interval: 40,
         currentStyle: '',
         enableHtml: false,
         fullStyle: [
@@ -134,7 +134,7 @@ html{
 工作经历
 ----
 
-1. 微软项目组（中石油、中石化、华夏幸福基业项目）
+1. 微软项目组（佰钧成，软通动力）
 2. 上海有色网
 3. 北京少林武术学校
 
@@ -143,7 +143,7 @@ html{
 
 * [GitHub](https://github.com/842186277)
 
-> 如果你想继续了解，请查看 [我的简历](/static/周星星简历.docx)。
+> 如果你想继续了解，请查看 [我的简历](https://842186277.github.io/jianli/public/static/周星星简历.docx)。
 
 `
       }
